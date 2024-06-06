@@ -61,7 +61,7 @@ Let's start by installing the above mentioned tools.
     minikube version
     ```
     
-## Start Virtual Machine
+## Minikube Commands
 
 | Command | Description |
 | --- | --- |
@@ -263,6 +263,3 @@ This guide covers the basic and advanced commands for working with Kubernetes. I
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [Minikube Documentation](https://minikube.sigs.k8s.io/docs/)
 - [Helm Documentation](https://helm.sh/docs/helm/)
-
-
-
